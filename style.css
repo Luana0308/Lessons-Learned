@@ -61,7 +61,7 @@ body {
   position: relative;
   top: 220px;
 }
-#table {
+#table, #table-titulo{
   position: relative;
   top: 240px;
 }
