@@ -1,68 +1,76 @@
-body{
-    width: 1366px;
-    background-color: rgb(253, 251, 251);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+body {
+  width: 1366px;
+  background-color: rgb(253, 251, 251);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-#titulo{
-    top: 0;
-    position: fixed;
-    border: rgb(23, 248, 248) solid 5px;
-    padding: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
-    width: 95%;
-    background-color: rgb(137, 247, 210);
-    font-family: cursive;
-    text-align: center;
-    z-index: 1;
+#titulo {
+  top: 0;
+  position: fixed;
+  border: rgb(23, 248, 248) solid 5px;
+  padding: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 95%;
+  background-color: rgb(137, 247, 210);
+  font-family: cursive;
+  text-align: center;
+  z-index: 1;
 }
-#navegação{
-   position: fixed;
-   top: 90px;
-   margin-left: 10px;
-   margin-right: 10px;
-   z-index: 1;
-   border: rgb(23, 248, 248) solid 5px;
-   width: 94%;
-   text-align:center;
-   background-color: rgb(181, 238, 235);
-   padding: 8px;
-   font-size: large;
+#navegação {
+  position: fixed;
+  top: 90px;
+  margin-left: 10px;
+  margin-right: 10px;
+  z-index: 1;
+  border: rgb(23, 248, 248) solid 5px;
+  width: 94%;
+  text-align: center;
+  background-color: rgb(181, 238, 235);
+  padding: 8px;
+  font-size: large;
 }
-#licoes_navegacao, #barra, #habilidades, #fim, #licoesaprendidas{
-    margin-left: 30px;
-    color: black;
+#licoes_navegacao,
+#barra,
+#habilidades,
+#fim,
+#licoesaprendidas {
+  margin-left: 30px;
+  color: black;
 }
-#minha_foto{
-    position: relative;
-    top: 130px;
-
+#minha_foto {
+  position: relative;
+  top: 130px;
 }
-#licoes_aprendidas{
-    position: relative;
-    top: 130px;
+#licoes_aprendidas {
+  position: relative;
+  top: 130px;
 }
-#licoes_a_aprender{
-    position: relative;
-    top: 180px;
+#licoes_a_aprender {
+  position: relative;
+  top: 180px;
 }
-#article{
-    position: relative;
-    top: 200px
+#article {
+  position: relative;
+  top: 200px;
 }
-#secao1{
-    position: relative;
-    top: 220px;
+#secao1 {
+  position: relative;
+  top: 220px;
 }
-#table{
-    position: relative;
-    top: 240px;
+#table {
+  position: relative;
+  top: 240px;
 }
-#rodape{
-    position: relative;
-    top: 250px;
+#rodape {
+  position: relative;
+  top: 250px;
 }
-
-
-
-
+.lado-esquerdo {
+  border: salmon solid 2px;
+  max-width: 300px;
+  margin-right: 300px;
+}
+.lado-direito {
+  border: salmon solid 2px;
+  max-width: 200px;
+}
