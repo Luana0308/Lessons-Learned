@@ -16,6 +16,7 @@ body {
   font-size: 30px;
   text-align: center;
   z-index: 1;
+  color: rgb(148, 7, 101);
 }
 
 #container{
@@ -39,10 +40,11 @@ body {
 #fim,
 #licoesaprendidas {
   margin-left: 30px;
-  color: black;
+  color: rgb(49, 7, 27);
 }
 #minha_foto {
     margin-top: 80px;
+    border-radius: 50px;
     text-align: center;
     background-image: url('https://www.10wallpaper.com/wallpaper/1366x768/1310/stripes_lines_dots_glitter-Abstract_wallpaper_1366x768.jpg');
 }
@@ -69,37 +71,69 @@ body {
   border-radius: 180px;
   margin-bottom: 80px;
 }
-#article {
-  position: relative;
+
+#border {
+  background-color: rgb(226, 205, 219);
+  border-radius: 100px;
+  max-width: 90%;
+  margin-left: 30px;
+  margin-bottom: 10px;
 }
+
 #secao1 {
-  position: relative;
+  display: inline;
+  color: rgb(146, 53, 155);
 }
-#table-titulo{
-    position: relative;
-    margin-top: 300px;
-}
+
 #table{
     line-height: 30px;
-    border: aquamarine solid 4px;
+    border: rgb(134, 10, 87) solid 4px;
+    margin-left: 735px;
 }
-#rodape {
-  position: relative;
+
+#table-soft {
+  margin-left: 800px;
+  display: inline;
+  color: rgb(114, 8, 114);
   text-align: center;
-  border: turquoise solid 5px;
+}
+
+#desenvolvimento {
+  display: block;
+  float: left;
+}
+
+#desenvolvimentoFoto {
+  border-radius: 20px;
+}
+
+#rodape {
+  text-align: center;
   padding: 5px;
   margin-top: 10px;
   display: block;
-  background-color: rgb(174, 238, 217);
+  background-color: rgb(245, 186, 210);
 }
 .lado-esquerdo {
-  border: aquamarine solid 5px;
+  text-align: center;
   max-width: 400px;
   float: left;
+  font-size: large;
+  margin-left: 20px;
+  color: rgb(121, 23, 124);
 }
+
+#imagePrancheta {
+  margin-left: 500px;
+}
+
+#aprendizado-image {
+  border-radius: 20px;
+}
+
 .lado-direito {
-  border: aquamarine solid 5px;
-  max-width: 250px;
-  float: right;
-  margin-right: 500px;
+  max-width: 300px;
+  font-size: large;
+  text-align: center;
+  margin-left: 100px;
 }
