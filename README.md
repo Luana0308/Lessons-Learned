@@ -1,9 +1,9 @@
-# Projeto Lessons Learned
+# Projeto Lessons Learned 💻
 
 ---
 
-## SUMÁRIO
-  - [Lista de requisitos](#lista-de-requisitos)
+##  🟣 SUMÁRIO
+  - ### [Lista de requisitos]
     - [1. Adicione uma cor de fundo específica para a página]
     - [2. Adicione uma barra superior com um título]
     - [3. Adicione uma foto sua à página]
@@ -14,7 +14,7 @@
     - [8. Crie um artigo sobre seu aprendizado]
     - [9. Crie uma seção que conta uma passagem sobre seu aprendizado]
     - [10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles]
-  - [Bônus](#bônus)
+  - ### [Bônus]
     - [11. Teste a semântica da sua página está aprovada pelo site CodeSniffer]
     - [12. Adicione uma tabela à página]
     - [13. Utilize o Box model]
@@ -23,7 +23,7 @@
 
 ---
 
-## Habilidades
+## 🟣 Habilidades
 
 * Uso do _HTML_ para construir páginas WEB.
 * Uso do _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
@@ -31,12 +31,12 @@
 
 ---
 
-## O que foi desenvolvido
+## 🟣 O que foi desenvolvido
 
 Foi desenvolvido um site que contem uma série de informações sobre o que eu aprenda na Trybe ao longo dos últimos três blocos. O site esta com elementos posicionados e estilizados e além disto, contem semântica apropriada para que seja acessível e melhor ranqueado.
 
 ---
 
-## Gif do site desenvolvido 
+## 🟣 Gif do site desenvolvido 
 
-![](siteLesssons.gif)
+![](Screen_Recording_2022-06-10_at_19_19_53_AdobeExpress.gif)
